@@ -56,6 +56,14 @@ Este repositório contém os scripts e a infraestrutura como código para constr
     # Instale as bibliotecas necessárias
     pip install -r requirements.txt
     ```
+        # 1. Vá para a pasta do projeto
+        cd Documents/geoclavis
+
+        # 2. Ative o ambiente virtual
+        source venv/bin/activate
+        # 3. python3 scripts/coletor_geo_anm.py
+
+
 
 ### Executando a Coleta de Dados
 
